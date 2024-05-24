@@ -1,8 +1,4 @@
 ![image](https://github.com/PekAI-Image/loginPage/assets/90401945/bc98f3b3-cb6f-439b-999a-1a8dfb61121c)
-Tabii, işte GitHub reposunun açıklama bölümüne ekleyebileceğiniz örnek bir metin:
-
----
-
 ## Kullanıcı Kayıt ve Giriş Sistemi
 
 Bu proje, kullanıcıların kayıt olabileceği ve mevcut hesaplarıyla giriş yapabileceği basit bir web uygulamasıdır. 
