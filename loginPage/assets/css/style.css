@@ -92,13 +92,6 @@ body {
     transform:scale(1.05);
   }
 }
-/* ====== Featured Words ===== */
-.featured-words {
-  text-align: center;
-  color: antiquewhite;
-  width: 300px;
-}
-
 /* ====== Second Column ===== */
 .col-2 {
  position: relative;
